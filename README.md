@@ -47,7 +47,7 @@ Executar testes com:
 pytest
 
 
-👨‍💻 Equipe
+## 👨‍💻 Equipe
 Enrico Aguiar Vrunski
 
 Thiago Ferreira Lima Gonçalves 
@@ -59,7 +59,7 @@ Felipe Soares de Oliveira
 Kayky Cerquiaro Prado 
 
 
-📚 Bibliografia
+## 📚 Bibliografia
 [Python Docs - String](https://docs.python.org/3/library/string.html)
 
 [Python Docs - getpass](https://docs.python.org/3/library/getpass.html)
