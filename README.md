@@ -60,13 +60,13 @@ Kayky Cerquiaro Prado
 
 
 📚 Bibliografia
-Python Docs - string
+[Python Docs - String](https://docs.python.org/3/library/string.html)
 
-Python Docs - getpass
+[Python Docs - getpass](https://docs.python.org/3/library/getpass.html)
 
-OWASP Top 10
+[OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
-Código Base: Password Strength Checker
+[Código Base: Password Strength Checker](https://github.com/itsallaboutpython/Top-10-Easy-Python-Project-Ideas-For-Beginners/blob/main/password_strength_checker.py)
 
 
 Licença: MIT License – sinta-se livre para usar, contribuir e adaptar!
